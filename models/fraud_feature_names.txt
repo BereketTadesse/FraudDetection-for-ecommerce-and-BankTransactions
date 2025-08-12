@@ -1,0 +1,187 @@
+num__purchase_hour
+num__purchase_day
+num__time_since_signup_hrs
+num__user_transaction_count
+num__user_avg_purchase_value
+num__user_purchase_std
+num__is_first_transaction
+num__device_freq
+num__browser_freq
+cat__country_Afghanistan
+cat__country_Albania
+cat__country_Algeria
+cat__country_Angola
+cat__country_Antigua and Barbuda
+cat__country_Argentina
+cat__country_Armenia
+cat__country_Australia
+cat__country_Austria
+cat__country_Azerbaijan
+cat__country_Bahamas
+cat__country_Bahrain
+cat__country_Bangladesh
+cat__country_Barbados
+cat__country_Belarus
+cat__country_Belgium
+cat__country_Belize
+cat__country_Benin
+cat__country_Bermuda
+cat__country_Bhutan
+cat__country_Bolivia
+cat__country_Bonaire; Sint Eustatius; Saba
+cat__country_Bosnia and Herzegowina
+cat__country_Botswana
+cat__country_Brazil
+cat__country_British Indian Ocean Territory
+cat__country_Brunei Darussalam
+cat__country_Bulgaria
+cat__country_Burkina Faso
+cat__country_Burundi
+cat__country_Cambodia
+cat__country_Cameroon
+cat__country_Canada
+cat__country_Cape Verde
+cat__country_Cayman Islands
+cat__country_Chile
+cat__country_China
+cat__country_Colombia
+cat__country_Congo The Democratic Republic of The
+cat__country_Costa Rica
+cat__country_Cote D'ivoire
+cat__country_Croatia (LOCAL Name: Hrvatska)
+cat__country_Cuba
+cat__country_Curacao
+cat__country_Cyprus
+cat__country_Czech Republic
+cat__country_Denmark
+cat__country_Djibouti
+cat__country_Dominican Republic
+cat__country_Ecuador
+cat__country_Egypt
+cat__country_El Salvador
+cat__country_Estonia
+cat__country_Ethiopia
+cat__country_European Union
+cat__country_Faroe Islands
+cat__country_Fiji
+cat__country_Finland
+cat__country_France
+cat__country_Gabon
+cat__country_Gambia
+cat__country_Georgia
+cat__country_Germany
+cat__country_Ghana
+cat__country_Gibraltar
+cat__country_Greece
+cat__country_Guadeloupe
+cat__country_Guam
+cat__country_Guatemala
+cat__country_Haiti
+cat__country_Honduras
+cat__country_Hong Kong
+cat__country_Hungary
+cat__country_Iceland
+cat__country_India
+cat__country_Indonesia
+cat__country_Iran (ISLAMIC Republic Of)
+cat__country_Iraq
+cat__country_Ireland
+cat__country_Israel
+cat__country_Italy
+cat__country_Jamaica
+cat__country_Japan
+cat__country_Jordan
+cat__country_Kazakhstan
+cat__country_Kenya
+cat__country_Korea Republic of
+cat__country_Kuwait
+cat__country_Kyrgyzstan
+cat__country_Lao People's Democratic Republic
+cat__country_Latvia
+cat__country_Lebanon
+cat__country_Lesotho
+cat__country_Libyan Arab Jamahiriya
+cat__country_Liechtenstein
+cat__country_Lithuania
+cat__country_Luxembourg
+cat__country_Macau
+cat__country_Macedonia
+cat__country_Madagascar
+cat__country_Malawi
+cat__country_Malaysia
+cat__country_Maldives
+cat__country_Malta
+cat__country_Mauritius
+cat__country_Mexico
+cat__country_Moldova Republic of
+cat__country_Monaco
+cat__country_Mongolia
+cat__country_Montenegro
+cat__country_Morocco
+cat__country_Mozambique
+cat__country_Namibia
+cat__country_Nauru
+cat__country_Nepal
+cat__country_Netherlands
+cat__country_New Caledonia
+cat__country_New Zealand
+cat__country_Nicaragua
+cat__country_Nigeria
+cat__country_Norway
+cat__country_Oman
+cat__country_Pakistan
+cat__country_Palestinian Territory Occupied
+cat__country_Panama
+cat__country_Papua New Guinea
+cat__country_Paraguay
+cat__country_Peru
+cat__country_Philippines
+cat__country_Poland
+cat__country_Portugal
+cat__country_Puerto Rico
+cat__country_Qatar
+cat__country_Reunion
+cat__country_Romania
+cat__country_Russian Federation
+cat__country_Rwanda
+cat__country_Saint Kitts and Nevis
+cat__country_Saudi Arabia
+cat__country_Senegal
+cat__country_Serbia
+cat__country_Seychelles
+cat__country_Singapore
+cat__country_Slovakia (SLOVAK Republic)
+cat__country_Slovenia
+cat__country_South Africa
+cat__country_Spain
+cat__country_Sri Lanka
+cat__country_Sudan
+cat__country_Sweden
+cat__country_Switzerland
+cat__country_Syrian Arab Republic
+cat__country_Taiwan; Republic of China (ROC)
+cat__country_Tajikistan
+cat__country_Tanzania United Republic of
+cat__country_Thailand
+cat__country_Trinidad and Tobago
+cat__country_Tunisia
+cat__country_Turkey
+cat__country_Turkmenistan
+cat__country_Uganda
+cat__country_Ukraine
+cat__country_United Arab Emirates
+cat__country_United Kingdom
+cat__country_United States
+cat__country_Unknown
+cat__country_Uruguay
+cat__country_Uzbekistan
+cat__country_Venezuela
+cat__country_Viet Nam
+cat__country_Virgin Islands (U.S.)
+cat__country_Zambia
+cat__country_Zimbabwe
+cat__browser_Chrome
+cat__browser_FireFox
+cat__browser_IE
+cat__browser_Opera
+cat__browser_Safari
